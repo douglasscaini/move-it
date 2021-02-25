@@ -8,11 +8,11 @@ export function Profile() {
 
   return (
     <div className={styles.profileContainer}>
-      <img src="http://www.github.com/douglasscaini.png" alt="Douglas Scaini" />
+      <img src="/avatar.svg" alt="Ícone do avatar" />
       <div>
-        <strong>Douglas Scaini</strong>
+        <strong>Usuário Premium</strong>
         <p>
-          <img src="icons/level.svg" alt="Level" />
+          <img src="icons/level.svg" alt="Ícone de levelup" />
           Level {level}
         </p>
       </div>
