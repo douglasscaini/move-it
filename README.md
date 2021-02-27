@@ -47,9 +47,9 @@ $ npm run dev
 
 ## :heavy_check_mark: Tecnologias <a name="technologies"></a>
 
-- TypeScript
-- React
-- Next
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Next](https://nextjs.org/)
 
 ---
 
